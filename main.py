@@ -3,7 +3,7 @@ def acces_netmiko():
     # Affiche les interfaces du routeur dans un fichier interfaces.txt
     print("Connexion au routeur via Netmiko...")
 
-def dire_bonjour():
-    print("Hello, Git!")
+def dire_salut():
+    print("salut, Git!")
 
-dire_bonjour()
+dire_salut()
